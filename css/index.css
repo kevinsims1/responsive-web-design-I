@@ -117,6 +117,7 @@ footer {
 
 @media(max-width: 800px) {
     body {
+        padding: 3%;
         width: 800px;
         background: blueviolet;
     }
@@ -149,6 +150,7 @@ footer {
     body {
         width: 500px;
         background: gray;
+        padding: 5%;
     }
 
     nav {
