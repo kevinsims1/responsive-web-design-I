@@ -130,6 +130,19 @@ footer {
         width: 80%;
 
     }
+
+    nav {
+        width: 100%;
+        justify-content: space-around;
+    }
+
+    .top-sec {
+        display: block;
+    }
+
+    .top-sec .codesnip {
+        display: none;
+    }
 }
 
 @media(max-width: 500px) {
