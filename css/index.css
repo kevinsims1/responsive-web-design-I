@@ -150,5 +150,20 @@ footer {
         width: 500px;
         background: gray;
     }
+
+    nav {
+        flex-direction: column;
+        align-items: center; 
+    }
+
+    a {
+        padding: 10px;
+    }
+
+    section {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
 }
 
