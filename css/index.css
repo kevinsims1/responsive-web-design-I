@@ -144,6 +144,19 @@ footer {
     .top-sec .codesnip {
         display: none;
     }
+
+    button {
+    width: 20%;
+    height: 2rem;
+  }
+
+  .box1 {
+      padding: 20px;
+  }
+
+  .box2 {
+      padding: 20px;
+  }
 }
 
 @media(max-width: 500px) {
